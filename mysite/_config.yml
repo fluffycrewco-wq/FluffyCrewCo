@@ -23,7 +23,7 @@ email: fluffycrewco@gmail.com
 description: "Fresh, fluffy cotton candy spun with love in Pooler, Georgia."
 
 baseurl: "/FluffyCrewCo"
-url: "https://fluffycrewco.github.io"
+url: "https://fluffycrewco-wq.github.io"
 
 # Build settings
 theme: minima
